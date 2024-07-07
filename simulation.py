@@ -1,7 +1,7 @@
 import math
 XSupply=0
-YSupply=200
-pool=200
+YSupply=0
+pool=0
 k=200
 ratio=24
 
